@@ -1,16 +1,136 @@
-## Hi there 👋
+<!-- ===================== BANNER ===================== -->
 
-<!--
-**Nahidhasan2331/Nahidhasan2331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MD%20Nahid%20Hasan&fontSize=45&fontAlignY=35&desc=Web%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm MD Nahid Hasan</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  Web Developer | React.js | Next.js | Node.js
+</h3>
+
+<p align="center">
+  Building modern, responsive and scalable web applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Web Developer with hands-on experience building modern, responsive, and user-focused web applications using **React.js, Next.js, Node.js, JavaScript, TypeScript, and Tailwind CSS**. Focused on developing clean and maintainable frontend interfaces, implementing backend functionality, and delivering reliable web solutions that provide a smooth user experience.
+
+Experienced in working with **REST APIs, PostgreSQL, Git/GitHub, and modern web development workflows**, with additional practical experience in **Software Quality Assurance (SQA)**, including manual testing, API testing with Postman, regression testing, and test case preparation.
+
+Passionate about solving real-world problems through technology and continuously improving my skills in **full-stack development, application architecture, performance, and modern development practices**. Comfortable working collaboratively, learning new technologies, and transforming ideas into functional and scalable web applications.
+
+---
+
+## 🚀 Currently
+
+- 🔭 Building modern web applications using **React.js and Next.js**
+- 🌱 Exploring advanced **Next.js, Node.js and backend development**
+- ⚡ Improving my **JavaScript and TypeScript** problem-solving skills
+- 🛠️ Working with **REST APIs, PostgreSQL and full-stack development**
+- 🧪 Applying **Software Quality Assurance** practices to improve application reliability
+- 🚀 Building projects to strengthen my **full-stack development** experience
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mysql,git,github,vscode,postman&perline=8" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Frontend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Backend & Database</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Tools</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Nahidhasan2331&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidhasan2331&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Nahidhasan2331&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nahidhasan2331&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://github.com/Nahidhasan2331">
+    <img src="https://img.shields.io/badge/GitHub-Nahidhasan2331-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="www.linkedin.com/in/hasan-md-nahid">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:nahidhasan1104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+## 💡 Development Philosophy
+
+> Clean code, continuous learning, and building solutions that solve real-world problems.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nahidhasan2331&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
