@@ -43,27 +43,6 @@ Passionate about solving real-world problems through technology and continuously
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mysql,git,github,vscode,postman&perline=8" />
 </p>
 
-<br/>
-
-<p align="center">
-  <strong>Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>Backend & Database</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>Tools</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -122,15 +101,3 @@ Passionate about solving real-world problems through technology and continuously
 </p>
 
 ---
-
-## 💡 Development Philosophy
-
-> Clean code, continuous learning, and building solutions that solve real-world problems.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nahidhasan2331&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
