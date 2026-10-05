@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MD%20Nahid%20Hasan&fontSize=45&fontAlignY=35&desc=Web%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD Nahid Hasan</h1>
+<h1 align="center">Hi 👋, I'm Md Nahid Hasan</h1>
 
 <h3 align="center">
   Web Developer | React.js | Next.js | Node.js
